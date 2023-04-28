@@ -7,3 +7,8 @@ With the Technoblade Pig Crown resource pack, you can now rule over your own pig
 
 
 You can use it with and without optifine
+
+
+this is under the MIT License
+
+Copyright (c) 2023 Quits123
